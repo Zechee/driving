@@ -13,3 +13,6 @@ elif country == 'US':
 		print('Congratulations, you can take the driving license test')
 	else:
 		print('Sorry, you connot take the driving license test')
+
+else:
+	print('Sorry, only two countries are available at this moment (China / US)')
